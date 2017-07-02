@@ -1,0 +1,22 @@
+{
+  "name": "next-js-montreal.org",
+  "version": "1.0.0",
+  "description": "The next version of js-montreal.org runs on uhm, next.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next"
+  },
+  "keywords": [
+    "next.js",
+    "nextjs",
+    "montreal"
+  ],
+  "author": "bruno.carriere@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^3.0.1-beta.6",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
